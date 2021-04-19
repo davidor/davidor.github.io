@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Ortiz</title>
+    <link>https://davidor.github.io/</link>
+    <description>Recent content on David Ortiz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://davidor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open source projects</title>
+      <link>https://davidor.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidor.github.io/projects/</guid>
+      <description>Projects    I am one of the main contributors of these projects:
+ 3scale-high-availability: docs for configuring 3scale to be highly-available 3scale-ws-api-for-ruby: 3scale Ruby client apicast: 3scale API gateway apicast-xc: apicast module that provides high volume and lower latency apisonator: 3scale backend ascetic: optimizing energy efficiency in cloud computing environments async-redis: async redis client for Ruby clopla: virtual machine placement optimizer demiurge: IaaS computing resources manager effectivejava: code analyzer.</description>
+    </item>
+    
+  </channel>
+</rss>
